@@ -21,8 +21,8 @@
 
 # The Required Screenshots
 ### Commits
-![Uploading the commits screenshot](/commits.png)
+![Uploading the commits screenshot](https://github.com/nada2003v/nada_mahmoud_MindCloud/blob/main/commits.PNG)
 
 
 ### Pull Request
-![Uploading the pull request screenshot](/pull_request.png)
+![Uploading the pull request screenshot](https://github.com/nada2003v/nada_mahmoud_MindCloud/blob/main/pull_request.PNG)
