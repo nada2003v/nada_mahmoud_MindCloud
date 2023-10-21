@@ -1,22 +1,28 @@
 # My Personal Data
-###My Name
-'nada mahmoud youssef'
+### My Name
+`Nada Mahmoud Youssef`
 
-###My Age
-#####20
+### My Age
+##### 20
 
-###My Department
-#####Electrical power and machines
+### My Department
+##### Electrical power and machines
 
-###My Favourite Team
-#####Hardware Team
+### My Favourite Team
+##### Hardware Team
 
-#Coloning my Repo
+# Coloning my Repo
+* you can access my repo by following the command
+` git clone https://github.com/nada2003v/nada_mahmoud_MindCloud.git`
+
+# Following me on GitHub
+* you can access my repo by following the command
+  - [Here](https://github.com/nada2003v)  
+
+# The Required Screenshots
+### Commits
+![Uploading the commits screenshot](/assets/images/commits.png)
 
 
-#The Required Screenshots
-###Commits
-![Uploading commits.PNG…]()
-
-
-###Pull Request
+### Pull Request
+![Uploading the pull request screenshot](/assets/images/pull_request.png)
