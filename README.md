@@ -21,8 +21,8 @@
 
 # The Required Screenshots
 ### Commits
-![Uploading the commits screenshot](/assets/images/commits.png)
+![Uploading the commits screenshot](/commits.png)
 
 
 ### Pull Request
-![Uploading the pull request screenshot](/assets/images/pull_request.png)
+![Uploading the pull request screenshot](/pull_request.png)
